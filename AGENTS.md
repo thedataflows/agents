@@ -1,0 +1,2 @@
+- Assess every change that is made for the possibility and difficulty of a rollback, and if the rollback if not possible or the rollback difficulty exceeds your role, DON'T DO IT without confirmation
+-
