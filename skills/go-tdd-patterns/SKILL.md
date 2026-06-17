@@ -1,3 +1,8 @@
+---
+name: go-tdd-patterns
+description: Go TDD Patterns & Best Practices
+---
+
 # Go TDD Patterns & Best Practices
 
 Use `software-engineer` skill as well for the foundations of software design.

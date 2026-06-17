@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "skills": {
+    "creating-mermaid-diagrams": {
+      "source": "Agents365-ai/365-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
+      "skillPath": "plugins/mermaid/skills/mermaid-skill/SKILL.md",
+      "skillFolderHash": "d719cf9444208ddb71f99c9679e6e1703db125a7",
+      "installedAt": "2026-06-17T21:26:58.383Z",
+      "updatedAt": "2026-06-17T21:26:58.383Z"
+    },
+    "drawio-skill": {
+      "source": "Agents365-ai/365-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
+      "skillPath": "plugins/drawio/skills/drawio-skill/SKILL.md",
+      "skillFolderHash": "40f4e63095913e45d4b66bb3ddd9c319df1d7554",
+      "installedAt": "2026-06-17T21:26:58.383Z",
+      "updatedAt": "2026-06-17T21:26:58.383Z"
+    },
+    "tldraw-skill": {
+      "source": "Agents365-ai/365-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
+      "skillPath": "plugins/tldraw/skills/tldraw-skill/SKILL.md",
+      "skillFolderHash": "f9246ad574da685fb93736831b6fcbc2f9250a92",
+      "installedAt": "2026-06-17T21:26:58.383Z",
+      "updatedAt": "2026-06-17T21:26:58.383Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed"
+  ]
+}
