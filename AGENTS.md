@@ -2,12 +2,13 @@
 
 ## Agent Activation & Communication
 
+ALWAYS MUST use `caveman`: The default, ultra-compressed communication protocol. Strip fluff, pleasantries, articles, and filler. Focus on exact technical facts and direct steps.
+
 - When entering `plan` mode, AI agents MUST activate and integrate the following skills:
   - `grill-with-docs`: For domain discovery, architectural discussions, and updating `CONTEXT.md`/ADRs.
   - `software-engineer`: For modern software engineering methodologies.
   - `critical-thinking`: To stress-test ideas and locate edge cases.
   - `go-tdd-patterns` & `go-software-designer`: When writing/refactoring Go codebase components.
-  - `caveman`: The default, ultra-compressed communication protocol. Strip fluff, pleasantries, articles, and filler. Focus on exact technical facts and direct steps.
 
 ## Guardrails & Boundaries
 
