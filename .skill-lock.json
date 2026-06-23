@@ -15,9 +15,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
       "skillPath": "plugins/drawio/skills/drawio-skill/SKILL.md",
-      "skillFolderHash": "40f4e63095913e45d4b66bb3ddd9c319df1d7554",
+      "skillFolderHash": "fa2175136f4d25ee698689e5721fcf5f5ac4c91e",
       "installedAt": "2026-06-17T21:26:58.383Z",
-      "updatedAt": "2026-06-17T21:26:58.383Z"
+      "updatedAt": "2026-06-23T06:44:05.227Z"
     },
     "tldraw-skill": {
       "source": "Agents365-ai/365-skills",
