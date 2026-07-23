@@ -15,9 +15,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
       "skillPath": "plugins/drawio/skills/drawio-skill/SKILL.md",
-      "skillFolderHash": "fa2175136f4d25ee698689e5721fcf5f5ac4c91e",
+      "skillFolderHash": "b3c806db403ef193cbdac08a64cec41a6fe0257f",
       "installedAt": "2026-06-17T21:26:58.383Z",
-      "updatedAt": "2026-06-23T06:44:05.227Z"
+      "updatedAt": "2026-07-18T14:25:48.917Z"
     },
     "tldraw-skill": {
       "source": "Agents365-ai/365-skills",
@@ -43,10 +43,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/plannotator/effective-html.git",
       "skillPath": "skills/html-diagram/SKILL.md",
-      "skillFolderHash": "8d2ed0ce2394210e4e3feba5ce14fe8c84439125",
-      "pluginName": "plannotator-effective-html",
+      "skillFolderHash": "9a9706aa8e9b3f4649898eacdeedb9be187c2127",
       "installedAt": "2026-06-19T12:02:24.109Z",
-      "updatedAt": "2026-06-19T12:02:24.109Z"
+      "updatedAt": "2026-07-18T14:25:50.419Z"
     },
     "html-plan": {
       "source": "plannotator/effective-html",
@@ -57,6 +56,24 @@
       "pluginName": "plannotator-effective-html",
       "installedAt": "2026-06-19T12:02:24.109Z",
       "updatedAt": "2026-06-19T12:02:24.109Z"
+    },
+    "ast-grep": {
+      "source": "ast-grep/agent-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/ast-grep/agent-skill.git",
+      "skillPath": "ast-grep/skills/ast-grep/SKILL.md",
+      "skillFolderHash": "ef60f77564e2d47d0cba25a809daa3af8f0c469b",
+      "installedAt": "2026-07-23T10:30:56.069Z",
+      "updatedAt": "2026-07-23T10:30:56.069Z"
+    },
+    "ast-grep-outline": {
+      "source": "ast-grep/agent-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/ast-grep/agent-skill.git",
+      "skillPath": "ast-grep/skills/outline/SKILL.md",
+      "skillFolderHash": "86dfd5539de37734e98187c80cdb4b7081ee10bb",
+      "installedAt": "2026-07-23T10:30:56.070Z",
+      "updatedAt": "2026-07-23T10:30:56.070Z"
     }
   },
   "dismissed": {
