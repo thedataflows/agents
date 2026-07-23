@@ -29,6 +29,7 @@ Not lazy about: input validation at trust boundaries, error handling that preven
 
 ## Agent Activation & Communication
 
+- Always use `ast-grep` skills to analyze the codebase and identify relevant files, functions, and patterns before making any changes. If not available or fails, can fall back to rg/grep, but prefer AST/LSP-based tools for accuracy.
 - When entering ANY type of `plan` mode, AI agents MUST activate and integrate the following skills:
   - `grill-with-docs`: For domain discovery, architectural discussions, and updating `CONTEXT.md`/ADRs.
   - `software-engineer`: For modern software engineering methodologies.
