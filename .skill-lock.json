@@ -292,6 +292,69 @@
       "pluginName": "mattpocock-skills",
       "installedAt": "2026-08-06T23:31:03.983Z",
       "updatedAt": "2026-08-06T23:31:03.983Z"
+    },
+    "convert-documents-to-markdown": {
+      "source": "firecrawl/anydoc",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/firecrawl/anydoc.git",
+      "skillPath": "skills/convert-documents-to-markdown/SKILL.md",
+      "skillFolderHash": "eb3266eddb4cb0577f0230604189c126274e089f",
+      "installedAt": "2026-08-10T20:16:43.424Z",
+      "updatedAt": "2026-08-10T20:16:43.424Z"
+    },
+    "design-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "skillFolderHash": "a6d128e53b4ec0238baee751dde33bf707adb5ec",
+      "installedAt": "2026-08-11T11:06:27.703Z",
+      "updatedAt": "2026-08-11T11:06:27.703Z"
+    },
+    "high-end-visual-design": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
+      "skillPath": "skills/soft-skill/SKILL.md",
+      "skillFolderHash": "1b5943432ddd1b980206968c529a323cc992dbec",
+      "installedAt": "2026-08-11T11:06:27.705Z",
+      "updatedAt": "2026-08-11T11:06:27.705Z"
+    },
+    "minimalist-ui": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
+      "skillPath": "skills/minimalist-skill/SKILL.md",
+      "skillFolderHash": "5509c012862cda27e2ed7efae89ed940ecc53add",
+      "installedAt": "2026-08-11T11:06:27.705Z",
+      "updatedAt": "2026-08-11T11:06:27.705Z"
+    },
+    "industrial-brutalist-ui": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
+      "skillPath": "skills/brutalist-skill/SKILL.md",
+      "skillFolderHash": "f812ede7e5c34cf680f629911e9f9ac05e416cf4",
+      "installedAt": "2026-08-11T11:06:27.706Z",
+      "updatedAt": "2026-08-11T11:06:27.706Z"
+    },
+    "redesign-existing-projects": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
+      "skillPath": "skills/redesign-skill/SKILL.md",
+      "skillFolderHash": "d9cffe56d26d4af7687299e391a7be1cfaf46c1b",
+      "installedAt": "2026-08-11T11:06:27.706Z",
+      "updatedAt": "2026-08-11T11:06:27.706Z"
+    },
+    "stitch-design-taste": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
+      "skillPath": "skills/stitch-skill/SKILL.md",
+      "skillFolderHash": "de2038cf286b31f33b397c1308455dbc17ef26f3",
+      "installedAt": "2026-08-11T11:06:27.708Z",
+      "updatedAt": "2026-08-11T11:06:27.708Z"
     }
   },
   "dismissed": {
