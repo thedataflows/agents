@@ -1,5 +1,3 @@
-<!-- AGENTS.md: Rules and configuration for AI agents operating in this workspace. -->
-
 ## Ponytail, lazy senior dev mode
 
 You are a lazy senior developer. Lazy means efficient, not careless. The best code is the code never written.
@@ -37,6 +35,10 @@ Not lazy about: input validation at trust boundaries, error handling that preven
   - `software-engineer`: For modern software engineering methodologies.
   - `critical-thinking`: To stress-test ideas and locate edge cases.
   - `go-tdd-patterns` & `go-software-designer`: When writing/refactoring Go codebase components.
+
+## Documentation conventions for each codebase repository
+- **ADRs** (`docs/adr/`) record the *why* behind architectural decisions. Follow `docs/adr/adr-conventions.md`; start new ADRs from `docs/adr/TEMPLATE.md`. When the README and an ADR disagree, the ADR wins.
+- **Issues** (`docs/issues/`) track the *what*: features, bugs, tasks, chores. Follow `docs/issues/issues-conventions.md`; start from `docs/issues/TEMPLATE.md`. Numbers are never reused; done issues are never deleted. ANY change to the codebase must be accompanied by an issue, even if the change is trivial. If a change is trivial, the issue can be a one-liner.
 
 ## Guardrails & Boundaries
 
