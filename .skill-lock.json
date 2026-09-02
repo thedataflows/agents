@@ -381,6 +381,15 @@
       "pluginName": "mattpocock-skills",
       "installedAt": "2026-09-01T05:37:27.898Z",
       "updatedAt": "2026-09-01T05:37:27.898Z"
+    },
+    "diagram-design": {
+      "source": "cathrynlavery/diagram-design",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
+      "skillPath": "skills/diagram-design/SKILL.md",
+      "skillFolderHash": "1bf319831137412e8ab71df321b510fa561fd262",
+      "installedAt": "2026-09-02T21:05:52.011Z",
+      "updatedAt": "2026-09-02T21:05:52.011Z"
     }
   },
   "dismissed": {
