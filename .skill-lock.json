@@ -1,15 +1,6 @@
 {
   "version": 3,
   "skills": {
-    "creating-mermaid-diagrams": {
-      "source": "Agents365-ai/365-skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
-      "skillPath": "plugins/mermaid/skills/mermaid-skill/SKILL.md",
-      "skillFolderHash": "d719cf9444208ddb71f99c9679e6e1703db125a7",
-      "installedAt": "2026-06-17T21:26:58.383Z",
-      "updatedAt": "2026-06-17T21:26:58.383Z"
-    },
     "drawio-skill": {
       "source": "Agents365-ai/365-skills",
       "sourceType": "github",
@@ -289,7 +280,7 @@
       "skillPath": "skills/convert-documents-to-markdown/SKILL.md",
       "skillFolderHash": "8559245000abebb500dfad53ef82fa383448b719",
       "installedAt": "2026-08-10T20:16:43.424Z",
-      "updatedAt": "2026-08-31T21:10:44.472Z"
+      "updatedAt": "2026-09-04T19:13:45.402Z"
     },
     "design-taste-frontend": {
       "source": "Leonxlnx/taste-skill",
@@ -368,9 +359,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "cff24583cbdc3b7c7313580f3fa0636ade2e5279",
+      "skillFolderHash": "f23d39ed3e7e2a0add67a055d352c0835d04f770",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-09-02T21:37:36.246Z"
+      "updatedAt": "2026-09-04T19:19:13.824Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -387,9 +378,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "1bf319831137412e8ab71df321b510fa561fd262",
+      "skillFolderHash": "5ee682d5c5d5c33c9d18f1ecfb4e576d6e2ac72e",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-09-02T21:05:52.011Z"
+      "updatedAt": "2026-09-04T19:19:19.207Z"
     }
   },
   "dismissed": {
