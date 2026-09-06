@@ -6,8 +6,8 @@ YOU MUST USE `ponytail` skill at all times and the other `ponytail-*` skills whe
 
 - Always use `ast-grep` and `ast-grep-outline` skills to analyze the codebase and identify relevant files, functions, and patterns before making any changes. If not available or fails, can fall back to rg/grep, but prefer AST/LSP-based tools for accuracy.
 - ALL and ANY text for humans MUST use `wait-what` and `unslop` skills
-- ALL and ANY text for AI/LLM, including internal thinking/reasoning, MUST use `caveman` skill
-- When entering ANY type of `plan` mode, AI agents MUST activate and integrate the following skills:
+- ALL and ANY text for AI/LLM, including internal thinking/reasoning, MUST use `ponytail` skills and `writing-for-agents`
+- When entering ANY type of `plan` mode (including `wayfinder`), AI agents MUST activate and integrate the following skills:
   - `grill-with-docs`: For domain discovery, architectural discussions, and updating `CONTEXT.md`/ADRs.
   - `software-engineer`: For modern software engineering methodologies.
   - `critical-thinking`: To stress-test ideas and locate edge cases.
