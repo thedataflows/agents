@@ -15,6 +15,7 @@ YOU MUST USE `ponytail` skill at all times and the other `ponytail-*` skills whe
 
 ## Documentation conventions for each codebase repository
 
+- DO NOT use stupid jargon and words like "fold" instead of "write" or "mutation" Use standard technical English when communicating to humans, always!
 - ALL and ANY documentation in Markdown MUST follow google OKF format: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 - **ADRs** (`docs/adr/`) record the *why* behind architectural decisions. Follow `docs/adr/adr-conventions.md`; start new ADRs from `docs/adr/TEMPLATE.md`. When the README and an ADR disagree, the ADR wins.
 - **Issues** (`docs/issues/`) track the *what*: features, bugs, tasks, chores. Follow `docs/issues/issues-conventions.md`; start from `docs/issues/TEMPLATE.md`. Numbers are never reused; done issues are never deleted. ANY change to the codebase must be accompanied by an issue, even if the change is trivial. If a change is trivial, the issue can be a one-liner.
