@@ -5,7 +5,7 @@ YOU MUST USE `ponytail` skill at all times and the other `ponytail-*` skills whe
 ## Agent Activation & Communication
 
 - Always use `ast-grep` and `ast-grep-outline` skills to analyze the codebase and identify relevant files, functions, and patterns before making any changes. If not available or fails, can fall back to rg/grep, but prefer AST/LSP-based tools for accuracy.
-- ALL and ANY text for humans MUST use `wait-what` and `unslop` skills
+- ALL and ANY text for humans MUST be in ASD-STE100 Simplified Technical English, and use the ubiquitous language from `CONTEXT.md` (follow `CONTEXT-MAP.md` to the right one if the repo has more than one) and `unslop` skills
 - ALL and ANY text for AI/LLM, including internal thinking/reasoning, MUST use `ponytail` skills and `writing-for-agents`
 - When entering ANY type of `plan` mode (including `wayfinder`), AI agents MUST activate and integrate the following skills:
   - `grill-with-docs`: For domain discovery, architectural discussions, and updating `CONTEXT.md`/ADRs.
