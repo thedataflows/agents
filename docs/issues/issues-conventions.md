@@ -52,7 +52,7 @@ Every issue begins with a markdown bullet list of header fields:
   the only closed-and-shipped state.
 - **Priority**: `low`, `medium`, `high`, or `critical`.
 - **Labels**: short free-form tags; reuse existing labels when possible.
-- **Assignee**: person, agent, or `none`.
+- **Assignee**: person (current repo), or `none`.
 - **Related**: other issues, plans, ADRs, or `none`.
 - **Related code**: relative markdown links to packages or files touched.
 - **Closing commits**: short SHAs when done, or `none` while open.
