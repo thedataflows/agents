@@ -341,27 +341,27 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/unslop/SKILL.md",
-      "skillFolderHash": "35153230eaaf0aa02437e7004bc319b33c5fbe1f",
+      "skillFolderHash": "e19dcc9c531f4609df38bc86c62cf0e8b6d8f444",
       "installedAt": "2026-08-19T18:40:44.743Z",
-      "updatedAt": "2026-09-02T21:37:33.425Z"
+      "updatedAt": "2026-09-09T15:06:22.163Z"
     },
     "blast-radius": {
       "source": "cursor/plugins",
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/blast-radius/SKILL.md",
-      "skillFolderHash": "b7e78173d1cee739737fa2371017a211ebe3fc8c",
+      "skillFolderHash": "f29ef2afd47676964c01bf73a9c5f31df29dd0b2",
       "installedAt": "2026-08-19T19:00:23.895Z",
-      "updatedAt": "2026-08-19T19:00:23.895Z"
+      "updatedAt": "2026-09-09T15:06:24.110Z"
     },
     "archify": {
       "source": "tt-a1i/archify",
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "f23d39ed3e7e2a0add67a055d352c0835d04f770",
+      "skillFolderHash": "8aa4cadc3cde102db4009f23f951cb4cf1e28d61",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-09-04T19:19:13.824Z"
+      "updatedAt": "2026-09-09T15:06:26.342Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -378,9 +378,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "5ee682d5c5d5c33c9d18f1ecfb4e576d6e2ac72e",
+      "skillFolderHash": "5cc3adc52615304d9c81623147ba4f6e788bb9c1",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-09-04T19:19:19.207Z"
+      "updatedAt": "2026-09-09T15:06:28.948Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
