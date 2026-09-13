@@ -359,9 +359,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "a1df19d2c2a579f5e7563255623e81ab1c790684",
+      "skillFolderHash": "b799ee7c865bec20b580cb1dfe493bcfb1f79e6d",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-09-11T23:31:22.472Z"
+      "updatedAt": "2026-09-13T07:03:12.744Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
