@@ -561,6 +561,25 @@
       "skillFolderHash": "1768f7552ec98fc6b06aeea747a0c4ef6bde0473",
       "installedAt": "2026-09-11T21:52:52.415Z",
       "updatedAt": "2026-09-11T21:52:52.415Z"
+    },
+    "show-me": {
+      "source": "humanlayer/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/humanlayer/skills.git",
+      "skillPath": "plugins/show-me/skills/show-me/SKILL.md",
+      "skillFolderHash": "0bdb821a21e793a4f6f82a7078c052154447e5cc",
+      "installedAt": "2026-09-13T20:37:18.010Z",
+      "updatedAt": "2026-09-13T20:37:18.010Z"
+    },
+    "humanizer": {
+      "source": "blader/humanizer",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/blader/humanizer.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "9862685f575c65a8247f90369951df1b3416e3d6",
+      "pluginName": "humanizer",
+      "installedAt": "2026-09-13T20:47:15.586Z",
+      "updatedAt": "2026-09-13T20:47:15.586Z"
     }
   },
   "dismissed": {
