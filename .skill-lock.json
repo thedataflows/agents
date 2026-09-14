@@ -1,23 +1,14 @@
 {
   "version": 3,
   "skills": {
-    "drawio-skill": {
-      "source": "Agents365-ai/365-skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
-      "skillPath": "plugins/drawio/skills/drawio-skill/SKILL.md",
-      "skillFolderHash": "15ae3467b24d1479b8c48452c1e93f577547d4ea",
-      "installedAt": "2026-06-17T21:26:58.383Z",
-      "updatedAt": "2026-09-11T23:31:18.784Z"
-    },
     "tldraw-skill": {
       "source": "Agents365-ai/365-skills",
       "sourceType": "github",
       "sourceUrl": "https://github.com/Agents365-ai/365-skills.git",
       "skillPath": "plugins/tldraw/skills/tldraw-skill/SKILL.md",
-      "skillFolderHash": "f9246ad574da685fb93736831b6fcbc2f9250a92",
+      "skillFolderHash": "d93630dc66b8a45539f47b83ad8f1253c7debc88",
       "installedAt": "2026-06-17T21:26:58.383Z",
-      "updatedAt": "2026-06-17T21:26:58.383Z"
+      "updatedAt": "2026-09-14T08:41:24.773Z"
     },
     "html": {
       "source": "plannotator/effective-html",
