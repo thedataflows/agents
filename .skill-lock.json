@@ -350,9 +350,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "b799ee7c865bec20b580cb1dfe493bcfb1f79e6d",
+      "skillFolderHash": "4648682edc76339a89539dc7fd05cc778d71bff9",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-09-13T07:03:12.744Z"
+      "updatedAt": "2026-09-22T21:48:05.956Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -369,9 +369,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "de5d854d15dd9f92752a9a229fe68076e1cb8f6b",
+      "skillFolderHash": "b15b596ca202592330107c5adff030614e88d877",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-09-10T20:01:27.928Z"
+      "updatedAt": "2026-09-22T21:48:11.601Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
@@ -432,9 +432,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/brainstorming/SKILL.md",
-      "skillFolderHash": "881fc4ac82a25e61a58d332426b5673efe060da0",
+      "skillFolderHash": "03d4c6657cd20ba0fce9d270fc688150bd191c3b",
       "installedAt": "2026-09-11T21:52:52.408Z",
-      "updatedAt": "2026-09-11T21:52:52.408Z"
+      "updatedAt": "2026-09-22T21:48:13.575Z"
     },
     "dispatching-parallel-agents": {
       "source": "obra/superpowers",
@@ -450,9 +450,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/executing-plans/SKILL.md",
-      "skillFolderHash": "1484ffb29998ba1db2a7b6bf0e641081eb8612e9",
+      "skillFolderHash": "899ffeab92be3de6cd9ed0078b32737b18b8c135",
       "installedAt": "2026-09-11T21:52:52.412Z",
-      "updatedAt": "2026-09-11T21:52:52.412Z"
+      "updatedAt": "2026-09-22T21:48:15.434Z"
     },
     "finishing-a-development-branch": {
       "source": "obra/superpowers",
@@ -477,36 +477,36 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/requesting-code-review/SKILL.md",
-      "skillFolderHash": "2ef6b5734813e7504d9866a7ec1ae89b505bfe70",
+      "skillFolderHash": "5fcdadfccd8c90987a11969d2f8c844820fee6e1",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-09-11T21:52:52.413Z"
+      "updatedAt": "2026-09-22T21:48:17.892Z"
     },
     "subagent-driven-development": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/subagent-driven-development/SKILL.md",
-      "skillFolderHash": "8133f2b10d4e71e73d867f2e2e365e0778ff0e4e",
+      "skillFolderHash": "5d44ced88725298e847c62c67a726dcc29e20d00",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-09-11T21:52:52.413Z"
+      "updatedAt": "2026-09-22T21:48:19.563Z"
     },
     "systematic-debugging": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/systematic-debugging/SKILL.md",
-      "skillFolderHash": "ab83fc82f82582e047d96fc516bac9bc03095ee0",
+      "skillFolderHash": "9a48dfda84bf339cba4b03fd803ba0dca2e158e3",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-09-11T21:52:52.413Z"
+      "updatedAt": "2026-09-22T21:48:21.363Z"
     },
     "test-driven-development": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/test-driven-development/SKILL.md",
-      "skillFolderHash": "a82cf8b413600c6bd7c4b482272d7990e9588cf1",
+      "skillFolderHash": "847144cf0824095922c0d4875648b9fa74877e1a",
       "installedAt": "2026-09-11T21:52:52.414Z",
-      "updatedAt": "2026-09-11T21:52:52.414Z"
+      "updatedAt": "2026-09-22T21:48:23.152Z"
     },
     "using-git-worktrees": {
       "source": "obra/superpowers",
@@ -522,9 +522,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/using-superpowers/SKILL.md",
-      "skillFolderHash": "e8e3b9ddf73018fdc48d188b12ba654e7363de9f",
+      "skillFolderHash": "4c777432715fe58984d212a36aedc6a18472e512",
       "installedAt": "2026-09-11T21:52:52.414Z",
-      "updatedAt": "2026-09-11T21:52:52.414Z"
+      "updatedAt": "2026-09-22T21:48:24.982Z"
     },
     "verification-before-completion": {
       "source": "obra/superpowers",
@@ -540,27 +540,27 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/writing-plans/SKILL.md",
-      "skillFolderHash": "e4d3c3faf3853a453016cece5de2ca0581807742",
+      "skillFolderHash": "bcaac5df52c27d16685a35932c17a1c418d8ce98",
       "installedAt": "2026-09-11T21:52:52.415Z",
-      "updatedAt": "2026-09-11T21:52:52.415Z"
+      "updatedAt": "2026-09-22T21:48:26.807Z"
     },
     "writing-skills": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/writing-skills/SKILL.md",
-      "skillFolderHash": "1768f7552ec98fc6b06aeea747a0c4ef6bde0473",
+      "skillFolderHash": "f761162236b19330da62b22ad0da20f5dac7c6ab",
       "installedAt": "2026-09-11T21:52:52.415Z",
-      "updatedAt": "2026-09-11T21:52:52.415Z"
+      "updatedAt": "2026-09-22T21:48:28.578Z"
     },
     "show-me": {
       "source": "humanlayer/skills",
       "sourceType": "github",
       "sourceUrl": "https://github.com/humanlayer/skills.git",
       "skillPath": "plugins/show-me/skills/show-me/SKILL.md",
-      "skillFolderHash": "0bdb821a21e793a4f6f82a7078c052154447e5cc",
+      "skillFolderHash": "362200ac2fb3c17b765049444e88de73767e6d08",
       "installedAt": "2026-09-13T20:37:18.010Z",
-      "updatedAt": "2026-09-13T20:37:18.010Z"
+      "updatedAt": "2026-09-22T21:48:30.043Z"
     },
     "humanizer": {
       "source": "blader/humanizer",
