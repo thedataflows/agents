@@ -332,27 +332,27 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/unslop/SKILL.md",
-      "skillFolderHash": "e19dcc9c531f4609df38bc86c62cf0e8b6d8f444",
+      "skillFolderHash": "d5baa969e71c4ddb563412b0ec170fa3b05b6d6e",
       "installedAt": "2026-08-19T18:40:44.743Z",
-      "updatedAt": "2026-09-09T15:06:22.163Z"
+      "updatedAt": "2026-09-24T22:29:53.541Z"
     },
     "blast-radius": {
       "source": "cursor/plugins",
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/blast-radius/SKILL.md",
-      "skillFolderHash": "f29ef2afd47676964c01bf73a9c5f31df29dd0b2",
+      "skillFolderHash": "ba9658b89ac272580051ab3a4ae58d5346e955f7",
       "installedAt": "2026-08-19T19:00:23.895Z",
-      "updatedAt": "2026-09-09T15:06:24.110Z"
+      "updatedAt": "2026-09-24T22:29:55.296Z"
     },
     "archify": {
       "source": "tt-a1i/archify",
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "4648682edc76339a89539dc7fd05cc778d71bff9",
+      "skillFolderHash": "68f9fae4d0b4a17c5cd8cba9682e7306f879d4bb",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-09-22T21:48:05.956Z"
+      "updatedAt": "2026-09-24T22:29:58.857Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
