@@ -369,9 +369,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "b15b596ca202592330107c5adff030614e88d877",
+      "skillFolderHash": "ccc6d186a75f4383e1b3c024fc5d2a6292968cda",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-09-22T21:48:11.601Z"
+      "updatedAt": "2026-09-28T07:49:06.242Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
@@ -540,9 +540,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/writing-plans/SKILL.md",
-      "skillFolderHash": "bcaac5df52c27d16685a35932c17a1c418d8ce98",
+      "skillFolderHash": "cc97fa00eb2ccd4f283e34eb2ba06a48e1e679f7",
       "installedAt": "2026-09-11T21:52:52.415Z",
-      "updatedAt": "2026-09-22T21:48:26.807Z"
+      "updatedAt": "2026-09-28T07:49:07.749Z"
     },
     "writing-skills": {
       "source": "obra/superpowers",
@@ -567,10 +567,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/blader/humanizer.git",
       "skillPath": "SKILL.md",
-      "skillFolderHash": "9862685f575c65a8247f90369951df1b3416e3d6",
+      "skillFolderHash": "225a6f39ac85f76ee48dbad772ea4abe4ed6c9d8",
       "pluginName": "humanizer",
       "installedAt": "2026-09-13T20:47:15.586Z",
-      "updatedAt": "2026-09-13T20:47:15.586Z"
+      "updatedAt": "2026-09-28T07:49:08.987Z"
     }
   },
   "dismissed": {
