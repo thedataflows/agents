@@ -4,6 +4,7 @@ description: "Trigger when user asks to implement, change, fix, or refactor code
 ---
 
 - ALWAYS Use graft tools to read/grep code. If not available, fallback to /ast-grep and /ast-grep-outline skills instead of grep/rg/sed
+- When needed, resolve code callers with local AST and available language server (gopls, etc) or use ast-grep embedded language servers, whichever is available
 - ALWAYS use first /atdd-ai-programming and TDD practices
 - After implementation and written code, use /verification-before-completion and /ponytail-review skills and accept recommendations
 - Update ALL relevant docs (issues, specs, diagrams, context, etc)
