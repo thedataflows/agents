@@ -123,19 +123,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/productivity/handoff/SKILL.md",
-      "skillFolderHash": "2242e8f05424b8c2ae94194a90d97b88d16108ec",
+      "skillFolderHash": "ce24892bd2d4b9e7fd5ac9b95c03175e18bef388",
       "installedAt": "2026-08-06T23:31:03.981Z",
-      "updatedAt": "2026-08-22T17:22:37.228Z"
+      "updatedAt": "2026-10-06T14:52:41.409Z"
     },
     "implement": {
       "source": "mattpocock/skills",
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/engineering/implement/SKILL.md",
-      "skillFolderHash": "f07d230f645fc9ac390cf13a450bbff12ad791a3",
-      "pluginName": "mattpocock-skills",
+      "skillFolderHash": "27a09574c533d4b9a66c7b2b43cdfeeeb9f415b5",
       "installedAt": "2026-08-06T23:31:03.981Z",
-      "updatedAt": "2026-08-06T23:31:03.981Z"
+      "updatedAt": "2026-10-06T14:52:43.052Z"
     },
     "improve-codebase-architecture": {
       "source": "mattpocock/skills",
@@ -198,10 +197,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/engineering/to-tickets/SKILL.md",
-      "skillFolderHash": "b32c94e5a51c24ee9c41fcb7fe9ea9fff9af6369",
-      "pluginName": "mattpocock-skills",
+      "skillFolderHash": "2dee20ad722a31c04ededf9f2d83842473573045",
       "installedAt": "2026-08-06T23:31:03.982Z",
-      "updatedAt": "2026-09-01T05:37:27.898Z"
+      "updatedAt": "2026-10-06T14:52:44.466Z"
     },
     "triage": {
       "source": "mattpocock/skills",
@@ -326,9 +324,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/blast-radius/SKILL.md",
-      "skillFolderHash": "ba9658b89ac272580051ab3a4ae58d5346e955f7",
+      "skillFolderHash": "9437b18aef01b61d24b57d0fd3de24386398b643",
       "installedAt": "2026-08-19T19:00:23.895Z",
-      "updatedAt": "2026-09-24T22:29:55.296Z"
+      "updatedAt": "2026-10-06T14:52:47.608Z"
     },
     "archify": {
       "source": "tt-a1i/archify",
@@ -354,9 +352,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "585a486c057a9a9cf9623638b976969cc3703cfb",
+      "skillFolderHash": "6e38893093af935d526da4e94c52bb232a796e49",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-10-05T15:07:49.785Z"
+      "updatedAt": "2026-10-06T14:52:54.658Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
