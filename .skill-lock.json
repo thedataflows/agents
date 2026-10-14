@@ -260,9 +260,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/taste-skill/SKILL.md",
-      "skillFolderHash": "a6d128e53b4ec0238baee751dde33bf707adb5ec",
+      "skillFolderHash": "d11cb9568d2f27401ce1f48217721e69ee32637f",
       "installedAt": "2026-08-11T11:06:27.703Z",
-      "updatedAt": "2026-08-11T11:06:27.703Z"
+      "updatedAt": "2026-10-14T15:47:01.573Z"
     },
     "high-end-visual-design": {
       "source": "Leonxlnx/taste-skill",
@@ -278,9 +278,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/minimalist-skill/SKILL.md",
-      "skillFolderHash": "5509c012862cda27e2ed7efae89ed940ecc53add",
+      "skillFolderHash": "c99b716035207587e267831561b6510462460ede",
       "installedAt": "2026-08-11T11:06:27.705Z",
-      "updatedAt": "2026-08-11T11:06:27.705Z"
+      "updatedAt": "2026-10-12T12:22:54.120Z"
     },
     "industrial-brutalist-ui": {
       "source": "Leonxlnx/taste-skill",
@@ -296,9 +296,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/redesign-skill/SKILL.md",
-      "skillFolderHash": "d9cffe56d26d4af7687299e391a7be1cfaf46c1b",
+      "skillFolderHash": "852ac1700e5e7434c3327f2e577a68187b841800",
       "installedAt": "2026-08-11T11:06:27.706Z",
-      "updatedAt": "2026-08-11T11:06:27.706Z"
+      "updatedAt": "2026-10-12T12:22:55.951Z"
     },
     "stitch-design-taste": {
       "source": "Leonxlnx/taste-skill",
@@ -314,9 +314,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/unslop/SKILL.md",
-      "skillFolderHash": "d5baa969e71c4ddb563412b0ec170fa3b05b6d6e",
+      "skillFolderHash": "4e572dd70e5557f490e3991c52ea58f0dcee8936",
       "installedAt": "2026-08-19T18:40:44.743Z",
-      "updatedAt": "2026-09-24T22:29:53.541Z"
+      "updatedAt": "2026-10-12T12:22:58.057Z"
     },
     "blast-radius": {
       "source": "cursor/plugins",
@@ -332,9 +332,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "a38bc1bc9e97804aa5d23f09c357ac23e096eb54",
+      "skillFolderHash": "7e1de2b2cf3a9a91823ee5dcc2089c1d96a7e4f1",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-10-10T00:11:07.269Z"
+      "updatedAt": "2026-10-14T15:47:04.706Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -351,9 +351,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "345611afb2db471dcd167b8a98f1c51f49e0d3d0",
+      "skillFolderHash": "d7d66b45810294ae98e8a2c1de72d4ce9af80616",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-10-10T00:11:10.849Z"
+      "updatedAt": "2026-10-14T15:47:07.589Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
@@ -378,9 +378,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
       "skillPath": "skills/ponytail-debt/SKILL.md",
-      "skillFolderHash": "3ef222a86faced384074b717321ab06773c75b14",
+      "skillFolderHash": "deefc4f8538312cf548a93ca0ff8c9d884fef22b",
       "installedAt": "2026-09-05T21:35:32.240Z",
-      "updatedAt": "2026-10-10T00:11:16.256Z"
+      "updatedAt": "2026-10-14T15:47:09.663Z"
     },
     "ponytail-gain": {
       "source": "DietrichGebert/ponytail",
@@ -414,9 +414,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/brainstorming/SKILL.md",
-      "skillFolderHash": "03d4c6657cd20ba0fce9d270fc688150bd191c3b",
+      "skillFolderHash": "abe5c2fed8c215d4b86b77be1d8a7d0b0562651c",
       "installedAt": "2026-09-11T21:52:52.408Z",
-      "updatedAt": "2026-09-22T21:48:13.575Z"
+      "updatedAt": "2026-10-12T12:23:02.242Z"
     },
     "dispatching-parallel-agents": {
       "source": "obra/superpowers",
@@ -432,9 +432,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/executing-plans/SKILL.md",
-      "skillFolderHash": "899ffeab92be3de6cd9ed0078b32737b18b8c135",
+      "skillFolderHash": "ef38c6c33e88e4248018dab6f03fc1ceda916ba0",
       "installedAt": "2026-09-11T21:52:52.412Z",
-      "updatedAt": "2026-09-22T21:48:15.434Z"
+      "updatedAt": "2026-10-12T12:23:04.110Z"
     },
     "finishing-a-development-branch": {
       "source": "obra/superpowers",
@@ -459,27 +459,27 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/requesting-code-review/SKILL.md",
-      "skillFolderHash": "5fcdadfccd8c90987a11969d2f8c844820fee6e1",
+      "skillFolderHash": "f4a6749898702895ea4fd57c7f186cf43205b99a",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-09-22T21:48:17.892Z"
+      "updatedAt": "2026-10-12T12:23:05.503Z"
     },
     "subagent-driven-development": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/subagent-driven-development/SKILL.md",
-      "skillFolderHash": "5d44ced88725298e847c62c67a726dcc29e20d00",
+      "skillFolderHash": "a9ec528b252e536a404fd0522e32cec31094d669",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-09-22T21:48:19.563Z"
+      "updatedAt": "2026-10-12T12:23:06.914Z"
     },
     "systematic-debugging": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/systematic-debugging/SKILL.md",
-      "skillFolderHash": "9a48dfda84bf339cba4b03fd803ba0dca2e158e3",
+      "skillFolderHash": "108961c080a6837ad8a188a553e593cc5e6df62d",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-09-22T21:48:21.363Z"
+      "updatedAt": "2026-10-12T12:23:08.637Z"
     },
     "test-driven-development": {
       "source": "obra/superpowers",
