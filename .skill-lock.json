@@ -260,54 +260,54 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/taste-skill/SKILL.md",
-      "skillFolderHash": "d11cb9568d2f27401ce1f48217721e69ee32637f",
+      "skillFolderHash": "8305962bcc68fb293a2202705ed615513c9535cd",
       "installedAt": "2026-08-11T11:06:27.703Z",
-      "updatedAt": "2026-10-14T15:47:01.573Z"
+      "updatedAt": "2026-10-19T21:06:00.122Z"
     },
     "high-end-visual-design": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/soft-skill/SKILL.md",
-      "skillFolderHash": "1b5943432ddd1b980206968c529a323cc992dbec",
+      "skillFolderHash": "f07b956842b1fe4f47ea8b2fc999fc89040c2c79",
       "installedAt": "2026-08-11T11:06:27.705Z",
-      "updatedAt": "2026-08-11T11:06:27.705Z"
+      "updatedAt": "2026-10-19T21:06:01.604Z"
     },
     "minimalist-ui": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/minimalist-skill/SKILL.md",
-      "skillFolderHash": "c99b716035207587e267831561b6510462460ede",
+      "skillFolderHash": "2e92dab6e17ddd1f4aa8895f9a5aab815fac3fbe",
       "installedAt": "2026-08-11T11:06:27.705Z",
-      "updatedAt": "2026-10-12T12:22:54.120Z"
+      "updatedAt": "2026-10-19T21:06:02.989Z"
     },
     "industrial-brutalist-ui": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/brutalist-skill/SKILL.md",
-      "skillFolderHash": "f812ede7e5c34cf680f629911e9f9ac05e416cf4",
+      "skillFolderHash": "16c42ff61e8e2bbe85e85345bb04ae682fa0ce67",
       "installedAt": "2026-08-11T11:06:27.706Z",
-      "updatedAt": "2026-08-11T11:06:27.706Z"
+      "updatedAt": "2026-10-19T21:06:04.535Z"
     },
     "redesign-existing-projects": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/redesign-skill/SKILL.md",
-      "skillFolderHash": "852ac1700e5e7434c3327f2e577a68187b841800",
+      "skillFolderHash": "8a627d8a360864afb3cd9bd213b3acdabfc2f3a1",
       "installedAt": "2026-08-11T11:06:27.706Z",
-      "updatedAt": "2026-10-12T12:22:55.951Z"
+      "updatedAt": "2026-10-19T21:06:05.887Z"
     },
     "stitch-design-taste": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/stitch-skill/SKILL.md",
-      "skillFolderHash": "de2038cf286b31f33b397c1308455dbc17ef26f3",
+      "skillFolderHash": "9e67b6a2c6e73dcb466546531497b2a23cad94d4",
       "installedAt": "2026-08-11T11:06:27.708Z",
-      "updatedAt": "2026-08-11T11:06:27.708Z"
+      "updatedAt": "2026-10-19T21:06:07.335Z"
     },
     "unslop": {
       "source": "cursor/plugins",
@@ -332,9 +332,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "7e1de2b2cf3a9a91823ee5dcc2089c1d96a7e4f1",
+      "skillFolderHash": "39069dd190f574064fe410aa3af1b6dfd98a522c",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-10-14T15:47:04.706Z"
+      "updatedAt": "2026-10-19T21:06:11.899Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -351,18 +351,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "d7d66b45810294ae98e8a2c1de72d4ce9af80616",
+      "skillFolderHash": "30fbe295173b9e469bcbab28c3059f4126f6012e",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-10-14T15:47:07.589Z"
+      "updatedAt": "2026-10-19T21:06:15.836Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
       "sourceType": "github",
       "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
       "skillPath": "skills/ponytail/SKILL.md",
-      "skillFolderHash": "db8acd3ce9e04ef4a5d42bbd90924b6d0a488318",
+      "skillFolderHash": "e8d3fa76e7ff9223a784dbd4bcfc9ff46b3fa55d",
       "installedAt": "2026-09-05T21:35:32.238Z",
-      "updatedAt": "2026-10-10T00:11:12.570Z"
+      "updatedAt": "2026-10-19T21:06:17.626Z"
     },
     "ponytail-audit": {
       "source": "DietrichGebert/ponytail",
@@ -378,27 +378,27 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
       "skillPath": "skills/ponytail-debt/SKILL.md",
-      "skillFolderHash": "deefc4f8538312cf548a93ca0ff8c9d884fef22b",
+      "skillFolderHash": "16c3b7953629510afa8f061f0fefa61a104e3020",
       "installedAt": "2026-09-05T21:35:32.240Z",
-      "updatedAt": "2026-10-14T15:47:09.663Z"
+      "updatedAt": "2026-10-19T21:06:20.560Z"
     },
     "ponytail-gain": {
       "source": "DietrichGebert/ponytail",
       "sourceType": "github",
       "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
       "skillPath": "skills/ponytail-gain/SKILL.md",
-      "skillFolderHash": "3725b1222980f5643c52e19b96fa04a92b179152",
+      "skillFolderHash": "c41e9e90173ddc6844c0bc44a89ba739534e06b0",
       "installedAt": "2026-09-05T21:35:32.240Z",
-      "updatedAt": "2026-10-10T00:11:18.126Z"
+      "updatedAt": "2026-10-19T21:06:22.437Z"
     },
     "ponytail-help": {
       "source": "DietrichGebert/ponytail",
       "sourceType": "github",
       "sourceUrl": "https://github.com/DietrichGebert/ponytail.git",
       "skillPath": "skills/ponytail-help/SKILL.md",
-      "skillFolderHash": "87f25f262420cf82267b3170d75d4b295ab2d986",
+      "skillFolderHash": "f293d9e0ecff5da72cb4accf8a9e4717892cf0ad",
       "installedAt": "2026-09-05T21:35:32.241Z",
-      "updatedAt": "2026-10-10T00:11:19.886Z"
+      "updatedAt": "2026-10-19T21:06:24.899Z"
     },
     "ponytail-review": {
       "source": "DietrichGebert/ponytail",
@@ -549,10 +549,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/blader/humanizer.git",
       "skillPath": "SKILL.md",
-      "skillFolderHash": "225a6f39ac85f76ee48dbad772ea4abe4ed6c9d8",
+      "skillFolderHash": "8c307f367c91bd974002f10f2be2965d642c13df",
       "pluginName": "humanizer",
       "installedAt": "2026-09-13T20:47:15.586Z",
-      "updatedAt": "2026-09-28T07:49:08.987Z"
+      "updatedAt": "2026-10-19T21:06:26.029Z"
     },
     "retro": {
       "source": "mattpocock/skills",
