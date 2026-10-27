@@ -260,54 +260,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/taste-skill/SKILL.md",
-      "skillFolderHash": "8305962bcc68fb293a2202705ed615513c9535cd",
+      "skillFolderHash": "844f3cf223d25a29e75f7965d095a093938282df",
       "installedAt": "2026-08-11T11:06:27.703Z",
-      "updatedAt": "2026-10-19T21:06:00.122Z"
-    },
-    "high-end-visual-design": {
-      "source": "Leonxlnx/taste-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
-      "skillPath": "skills/soft-skill/SKILL.md",
-      "skillFolderHash": "f07b956842b1fe4f47ea8b2fc999fc89040c2c79",
-      "installedAt": "2026-08-11T11:06:27.705Z",
-      "updatedAt": "2026-10-19T21:06:01.604Z"
-    },
-    "minimalist-ui": {
-      "source": "Leonxlnx/taste-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
-      "skillPath": "skills/minimalist-skill/SKILL.md",
-      "skillFolderHash": "2e92dab6e17ddd1f4aa8895f9a5aab815fac3fbe",
-      "installedAt": "2026-08-11T11:06:27.705Z",
-      "updatedAt": "2026-10-19T21:06:02.989Z"
-    },
-    "industrial-brutalist-ui": {
-      "source": "Leonxlnx/taste-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
-      "skillPath": "skills/brutalist-skill/SKILL.md",
-      "skillFolderHash": "16c42ff61e8e2bbe85e85345bb04ae682fa0ce67",
-      "installedAt": "2026-08-11T11:06:27.706Z",
-      "updatedAt": "2026-10-19T21:06:04.535Z"
-    },
-    "redesign-existing-projects": {
-      "source": "Leonxlnx/taste-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
-      "skillPath": "skills/redesign-skill/SKILL.md",
-      "skillFolderHash": "8a627d8a360864afb3cd9bd213b3acdabfc2f3a1",
-      "installedAt": "2026-08-11T11:06:27.706Z",
-      "updatedAt": "2026-10-19T21:06:05.887Z"
-    },
-    "stitch-design-taste": {
-      "source": "Leonxlnx/taste-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
-      "skillPath": "skills/stitch-skill/SKILL.md",
-      "skillFolderHash": "9e67b6a2c6e73dcb466546531497b2a23cad94d4",
-      "installedAt": "2026-08-11T11:06:27.708Z",
-      "updatedAt": "2026-10-19T21:06:07.335Z"
+      "updatedAt": "2026-10-27T16:11:15.288Z"
     },
     "unslop": {
       "source": "cursor/plugins",
@@ -332,9 +287,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "39069dd190f574064fe410aa3af1b6dfd98a522c",
+      "skillFolderHash": "d5fc699feb186e8be4e2d9e86f850a8ea1b6959e",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-10-19T21:06:11.899Z"
+      "updatedAt": "2026-10-27T16:11:19.716Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -351,9 +306,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "30fbe295173b9e469bcbab28c3059f4126f6012e",
+      "skillFolderHash": "c95270bb4c4a4140a7e6602ee5ad34998aeae902",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-10-19T21:06:15.836Z"
+      "updatedAt": "2026-10-27T16:11:23.114Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
@@ -414,9 +369,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/brainstorming/SKILL.md",
-      "skillFolderHash": "abe5c2fed8c215d4b86b77be1d8a7d0b0562651c",
+      "skillFolderHash": "3d8a23691e919f5acfd31d45f76bdc168d24ca1b",
       "installedAt": "2026-09-11T21:52:52.408Z",
-      "updatedAt": "2026-10-12T12:23:02.242Z"
+      "updatedAt": "2026-10-27T16:11:24.458Z"
     },
     "dispatching-parallel-agents": {
       "source": "obra/superpowers",
@@ -432,9 +387,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/executing-plans/SKILL.md",
-      "skillFolderHash": "ef38c6c33e88e4248018dab6f03fc1ceda916ba0",
+      "skillFolderHash": "1374506e051a95c35f04654ebde9c5d845d7c7cb",
       "installedAt": "2026-09-11T21:52:52.412Z",
-      "updatedAt": "2026-10-12T12:23:04.110Z"
+      "updatedAt": "2026-10-27T16:11:26.996Z"
     },
     "finishing-a-development-branch": {
       "source": "obra/superpowers",
@@ -468,9 +423,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/subagent-driven-development/SKILL.md",
-      "skillFolderHash": "a9ec528b252e536a404fd0522e32cec31094d669",
+      "skillFolderHash": "98c875856cf40765616a4565f09b437f0c58992b",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-10-12T12:23:06.914Z"
+      "updatedAt": "2026-10-27T16:11:28.737Z"
     },
     "systematic-debugging": {
       "source": "obra/superpowers",
@@ -531,9 +486,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/writing-skills/SKILL.md",
-      "skillFolderHash": "f761162236b19330da62b22ad0da20f5dac7c6ab",
+      "skillFolderHash": "660ede63b84ce5d07ef28cccc2973165e2ca06e2",
       "installedAt": "2026-09-11T21:52:52.415Z",
-      "updatedAt": "2026-09-22T21:48:28.578Z"
+      "updatedAt": "2026-10-27T16:11:30.971Z"
     },
     "show-me": {
       "source": "humanlayer/skills",
@@ -574,6 +529,7 @@
     "codex",
     "cursor",
     "droid",
+    "fx",
     "gemini-cli",
     "github-copilot",
     "kilo",
