@@ -654,67 +654,60 @@
       "updatedAt": "2026-10-31T20:25:55.376Z"
     },
     "egm-bootstrap": {
-      "source": "google/elephant-goldfish-model",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/google/elephant-goldfish-model.git",
-      "skillPath": "skills/egm-bootstrap/SKILL.md",
-      "skillFolderHash": "b4e703f311ac7b52dd5cb53e0ad9f9c0eef5b9f7",
-      "installedAt": "2026-10-31T20:29:39.703Z",
-      "updatedAt": "2026-10-31T20:29:39.703Z"
+      "source": "/home/cri/.agents/elephant-goldfish-model",
+      "sourceType": "local",
+      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
+      "skillFolderHash": "d32f760e2fc4c82607e76d2edf8b626a4a5b280e9a3640a9544f3c2ce6f1c8c3",
+      "installedAt": "2026-11-01T13:08:03.721Z",
+      "updatedAt": "2026-11-01T13:10:07.262Z"
     },
     "egm-brainstorm": {
-      "source": "google/elephant-goldfish-model",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/google/elephant-goldfish-model.git",
-      "skillPath": "skills/egm-brainstorm/SKILL.md",
-      "skillFolderHash": "3e632595d37b7be91cbd35ebc0c319ddc0073d41",
-      "installedAt": "2026-10-31T20:29:39.704Z",
-      "updatedAt": "2026-10-31T20:29:39.704Z"
+      "source": "/home/cri/.agents/elephant-goldfish-model",
+      "sourceType": "local",
+      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
+      "skillFolderHash": "56db1ec73b04de3825d1e075262138f0d66763e7ab82f9f67cda2c4ed9b0cf4b",
+      "installedAt": "2026-11-01T13:08:03.722Z",
+      "updatedAt": "2026-11-01T13:10:07.263Z"
     },
     "egm-draft": {
-      "source": "google/elephant-goldfish-model",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/google/elephant-goldfish-model.git",
-      "skillPath": "skills/egm-draft/SKILL.md",
-      "skillFolderHash": "a1be327cf4d41ad5077f020b2f466d780679a71e",
-      "installedAt": "2026-10-31T20:29:39.705Z",
-      "updatedAt": "2026-10-31T20:29:39.705Z"
+      "source": "/home/cri/.agents/elephant-goldfish-model",
+      "sourceType": "local",
+      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
+      "skillFolderHash": "c719c13448fa72609b2a87585a1d2cbdf52027d9d944e4f3ea2009fff5cd18ff",
+      "installedAt": "2026-11-01T13:08:03.723Z",
+      "updatedAt": "2026-11-01T13:10:07.263Z"
     },
     "egm-drift-report": {
-      "source": "google/elephant-goldfish-model",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/google/elephant-goldfish-model.git",
-      "skillPath": "skills/egm-drift-report/SKILL.md",
-      "skillFolderHash": "c2a331eafcce866b67479344d2b3c025cbc33b9f",
-      "installedAt": "2026-10-31T20:29:39.706Z",
-      "updatedAt": "2026-10-31T20:29:39.706Z"
+      "source": "/home/cri/.agents/elephant-goldfish-model",
+      "sourceType": "local",
+      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
+      "skillFolderHash": "60acfd354ef952f4ccc2dc3d93ef01514b083802dc5dcf809fe405faa045569e",
+      "installedAt": "2026-11-01T13:08:03.724Z",
+      "updatedAt": "2026-11-01T13:10:07.264Z"
     },
     "egm-resolve": {
-      "source": "google/elephant-goldfish-model",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/google/elephant-goldfish-model.git",
-      "skillPath": "skills/egm-resolve/SKILL.md",
-      "skillFolderHash": "64829c172a41ce61deff3e07dc84bda6f5fe148f",
-      "installedAt": "2026-10-31T20:29:39.707Z",
-      "updatedAt": "2026-10-31T20:29:39.707Z"
+      "source": "/home/cri/.agents/elephant-goldfish-model",
+      "sourceType": "local",
+      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
+      "skillFolderHash": "c3459efc56ae95cf814fd5dcb3c1b4c0ccd91b465614ff39249f4047a6029833",
+      "installedAt": "2026-11-01T13:08:03.724Z",
+      "updatedAt": "2026-11-01T13:10:07.264Z"
     },
     "egm-review": {
-      "source": "google/elephant-goldfish-model",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/google/elephant-goldfish-model.git",
-      "skillPath": "skills/egm-review/SKILL.md",
-      "skillFolderHash": "a12c178fdba034e5b3c63335734f95a1ed0b8af5",
-      "installedAt": "2026-10-31T20:29:39.707Z",
-      "updatedAt": "2026-10-31T20:29:39.707Z"
+      "source": "/home/cri/.agents/elephant-goldfish-model",
+      "sourceType": "local",
+      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
+      "skillFolderHash": "7527be03913be9c168826243982a1aa55a6952cb5ff2a5a3e2b841facfb5c6f2",
+      "installedAt": "2026-11-01T13:08:03.725Z",
+      "updatedAt": "2026-11-01T13:10:07.264Z"
     },
     "egm-review-loop": {
-      "source": "google/elephant-goldfish-model",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/google/elephant-goldfish-model.git",
-      "skillPath": "skills/egm-review-loop/SKILL.md",
-      "skillFolderHash": "8382aa5dc3843b6b305945ee14a3be9f06e290d1",
-      "installedAt": "2026-10-31T20:29:39.708Z",
-      "updatedAt": "2026-10-31T20:29:39.708Z"
+      "source": "/home/cri/.agents/elephant-goldfish-model",
+      "sourceType": "local",
+      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
+      "skillFolderHash": "2053d524df95424436389ba5b7a9485b08f49027ad03d9e2bd5400208845b450",
+      "installedAt": "2026-11-01T13:08:03.725Z",
+      "updatedAt": "2026-11-01T13:10:07.265Z"
     }
   },
   "dismissed": {
