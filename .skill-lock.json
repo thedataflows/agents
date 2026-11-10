@@ -42,18 +42,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/ast-grep/agent-skill.git",
       "skillPath": "ast-grep/skills/ast-grep/SKILL.md",
-      "skillFolderHash": "1f1877bfb051fff6e6de5ebe529fb47758a03367",
+      "skillFolderHash": "6348724abcf567de5944e0ed0dfd7ec280ffced2",
       "installedAt": "2026-07-23T10:30:56.069Z",
-      "updatedAt": "2026-09-10T20:01:25.327Z"
+      "updatedAt": "2026-11-10T22:09:07.082Z"
     },
     "ast-grep-outline": {
       "source": "ast-grep/agent-skill",
       "sourceType": "github",
       "sourceUrl": "https://github.com/ast-grep/agent-skill.git",
       "skillPath": "ast-grep/skills/outline/SKILL.md",
-      "skillFolderHash": "7ee23d31b0578aa6702d8bbafa15749fc499a8c0",
+      "skillFolderHash": "674e18dc4236cf9ce407c908c11b8b9bf1c94d79",
       "installedAt": "2026-07-23T10:30:56.070Z",
-      "updatedAt": "2026-08-22T17:22:26.972Z"
+      "updatedAt": "2026-11-10T22:09:07.097Z"
     },
     "code-review": {
       "source": "mattpocock/skills",
@@ -98,7 +98,7 @@
       "skillPath": "skills/productivity/grill-me/SKILL.md",
       "skillFolderHash": "3df14e2d3a89459bf300614be9247e3ce74798f8",
       "installedAt": "2026-08-06T23:31:03.980Z",
-      "updatedAt": "2026-08-22T17:22:33.347Z"
+      "updatedAt": "2026-11-10T22:09:07.117Z"
     },
     "grill-with-docs": {
       "source": "mattpocock/skills",
@@ -152,7 +152,7 @@
       "skillPath": "skills/engineering/prototype/SKILL.md",
       "skillFolderHash": "e41d92e171f074a2b6887d8f6faca4a15c83d1ca",
       "installedAt": "2026-08-06T23:31:03.982Z",
-      "updatedAt": "2026-08-22T17:22:39.716Z"
+      "updatedAt": "2026-11-10T22:09:07.136Z"
     },
     "research": {
       "source": "mattpocock/skills",
@@ -188,7 +188,7 @@
       "skillPath": "skills/engineering/to-spec/SKILL.md",
       "skillFolderHash": "136b9651747cfccbfbb7c50a6b0dfb757e7547d2",
       "installedAt": "2026-08-06T23:31:03.982Z",
-      "updatedAt": "2026-08-22T17:22:46.056Z"
+      "updatedAt": "2026-11-10T22:09:07.157Z"
     },
     "to-tickets": {
       "source": "mattpocock/skills",
@@ -233,7 +233,7 @@
       "skillPath": "skills/engineering/wizard/SKILL.md",
       "skillFolderHash": "e396d3ba97c723a78ffd350fb14a3c409137b306",
       "installedAt": "2026-08-06T23:31:03.983Z",
-      "updatedAt": "2026-10-10T00:11:03.759Z"
+      "updatedAt": "2026-11-10T22:09:07.179Z"
     },
     "writing-for-agents": {
       "source": "mattpocock/skills",
@@ -259,9 +259,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/Leonxlnx/taste-skill.git",
       "skillPath": "skills/taste-skill/SKILL.md",
-      "skillFolderHash": "844f3cf223d25a29e75f7965d095a093938282df",
+      "skillFolderHash": "90f92ba7a3ce514cf85a2809583712dbd14106ea",
       "installedAt": "2026-08-11T11:06:27.703Z",
-      "updatedAt": "2026-10-27T16:11:15.288Z"
+      "updatedAt": "2026-11-10T22:09:11.545Z"
     },
     "unslop": {
       "source": "cursor/plugins",
@@ -286,9 +286,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/tt-a1i/archify.git",
       "skillPath": "archify/SKILL.md",
-      "skillFolderHash": "d5fc699feb186e8be4e2d9e86f850a8ea1b6959e",
+      "skillFolderHash": "03645a096811664da641153a4a42e862c4a6bc62",
       "installedAt": "2026-08-23T22:04:08.818Z",
-      "updatedAt": "2026-10-27T16:11:19.716Z"
+      "updatedAt": "2026-11-10T22:09:12.086Z"
     },
     "to-questionnaire": {
       "source": "mattpocock/skills",
@@ -305,9 +305,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "bcecaf90a9082b1820d32c9416665bec0d9d713e",
+      "skillFolderHash": "7c64ced4ca34f0e77fd4f3c5f77421cf59de3762",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-10-31T20:22:10.720Z"
+      "updatedAt": "2026-11-10T22:09:12.738Z"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
@@ -368,9 +368,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/brainstorming/SKILL.md",
-      "skillFolderHash": "3d8a23691e919f5acfd31d45f76bdc168d24ca1b",
+      "skillFolderHash": "ebd5b1afb600976b12a4c07fedd9c408c1e82f97",
       "installedAt": "2026-09-11T21:52:52.408Z",
-      "updatedAt": "2026-10-27T16:11:24.458Z"
+      "updatedAt": "2026-11-10T22:09:12.776Z"
     },
     "dispatching-parallel-agents": {
       "source": "obra/superpowers",
@@ -386,9 +386,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/executing-plans/SKILL.md",
-      "skillFolderHash": "1374506e051a95c35f04654ebde9c5d845d7c7cb",
+      "skillFolderHash": "3a8438d91d9340747ffd985fdbcfe7238d6e1e57",
       "installedAt": "2026-09-11T21:52:52.412Z",
-      "updatedAt": "2026-10-27T16:11:26.996Z"
+      "updatedAt": "2026-11-10T22:09:12.804Z"
     },
     "finishing-a-development-branch": {
       "source": "obra/superpowers",
@@ -422,18 +422,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/subagent-driven-development/SKILL.md",
-      "skillFolderHash": "98c875856cf40765616a4565f09b437f0c58992b",
+      "skillFolderHash": "c04a61186680d4cfc6784136d0421cd4abcfb40c",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-10-27T16:11:28.737Z"
+      "updatedAt": "2026-11-10T22:09:12.857Z"
     },
     "systematic-debugging": {
       "source": "obra/superpowers",
       "sourceType": "github",
       "sourceUrl": "https://github.com/obra/superpowers.git",
       "skillPath": "skills/systematic-debugging/SKILL.md",
-      "skillFolderHash": "108961c080a6837ad8a188a553e593cc5e6df62d",
+      "skillFolderHash": "774f23e27e35cb0a89ede39156e7b079fbb84190",
       "installedAt": "2026-09-11T21:52:52.413Z",
-      "updatedAt": "2026-10-12T12:23:08.637Z"
+      "updatedAt": "2026-11-10T22:09:12.884Z"
     },
     "test-driven-development": {
       "source": "obra/superpowers",
@@ -503,10 +503,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/blader/humanizer.git",
       "skillPath": "SKILL.md",
-      "skillFolderHash": "0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0",
+      "skillFolderHash": "b48c832f0f809c1b5658edbb838c2521b72f2413",
       "pluginName": "humanizer",
       "installedAt": "2026-09-13T20:47:15.586Z",
-      "updatedAt": "2026-10-31T20:22:11.954Z"
+      "updatedAt": "2026-11-10T22:09:12.941Z"
     },
     "retro": {
       "source": "mattpocock/skills",
@@ -649,9 +649,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
       "skillPath": "skills/code-review-and-quality/SKILL.md",
-      "skillFolderHash": "2c0b966d411b0d64c4f44efdde30d5f6f3666f76",
+      "skillFolderHash": "3d1a2191446790b81f8e97875806dbbddd5135c8",
       "installedAt": "2026-10-31T20:25:55.376Z",
-      "updatedAt": "2026-10-31T20:25:55.376Z"
+      "updatedAt": "2026-11-10T22:09:12.961Z"
     },
     "egm-bootstrap": {
       "source": "/home/cri/.agents/elephant-goldfish-model",
@@ -708,6 +708,15 @@
       "skillFolderHash": "2053d524df95424436389ba5b7a9485b08f49027ad03d9e2bd5400208845b450",
       "installedAt": "2026-11-01T13:08:03.725Z",
       "updatedAt": "2026-11-01T13:10:07.265Z"
+    },
+    "stageshow": {
+      "source": "benjitaylor/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/benjitaylor/skills.git",
+      "skillPath": "stageshow/SKILL.md",
+      "skillFolderHash": "92857a8f6dbc0c3f5157c11a7afc4e55d488b8d6",
+      "installedAt": "2026-11-07T18:31:20.709Z",
+      "updatedAt": "2026-11-07T18:31:20.709Z"
     }
   },
   "dismissed": {
