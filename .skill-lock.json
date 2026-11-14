@@ -717,6 +717,24 @@
       "skillFolderHash": "92857a8f6dbc0c3f5157c11a7afc4e55d488b8d6",
       "installedAt": "2026-11-07T18:31:20.709Z",
       "updatedAt": "2026-11-07T18:31:20.709Z"
+    },
+    "figma-designer": {
+      "source": "elayadesign/ai-design-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/elayadesign/ai-design-skills.git",
+      "skillPath": "skills/figma-designer/SKILL.md",
+      "skillFolderHash": "11301b7b210a5f914c5cff01df9acd62dc7e1f85",
+      "installedAt": "2026-11-14T12:59:24.276Z",
+      "updatedAt": "2026-11-14T12:59:24.276Z"
+    },
+    "landing-page-design": {
+      "source": "elayadesign/ai-design-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/elayadesign/ai-design-skills.git",
+      "skillPath": "skills/landing-page-design/SKILL.md",
+      "skillFolderHash": "62da74ea6c3d29ace1e8617f853862272cacad91",
+      "installedAt": "2026-11-14T12:59:24.277Z",
+      "updatedAt": "2026-11-14T12:59:24.277Z"
     }
   },
   "dismissed": {
