@@ -14,7 +14,7 @@ description: "Trigger when user asks to implement, change, fix, or refactor code
 ## Rules
 
 - ALWAYS obey and check the governing specs and rules. DO NOT go into any edge case that was not designed or asked of you. DO NOT let your sub-agents to it as well.
-- ALWAYS Use graft tools and `ast-grep`/`ast-grep-outline` tools and skills to read/grep code. Resolve code callers with local AST and available language server (gopls, etc) or use ast-grep embedded language servers. If not available, fallback to grep/rg/sed
+- ALWAYS Use graft tools and `ast-grep`/`ast-grep-outline` tools and skills to read/grep existing code. Resolve code callers with local AST and available language server (gopls, etc) or use ast-grep embedded language servers. DO NOT use grep/rg/sed or `read` file tools unless there is nothing else or not code.
 - ALWAYS use first /atdd-ai-programming and TDD practices
 - After implementation and written code, spawn separate agents with /verification-before-completion and /ponytail-review skills and accept recommendations
 - Update ALL relevant docs (issues, specs, diagrams, context, etc)
