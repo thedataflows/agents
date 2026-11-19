@@ -268,18 +268,20 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/unslop/SKILL.md",
-      "skillFolderHash": "4e572dd70e5557f490e3991c52ea58f0dcee8936",
+      "skillFolderHash": "3319d5baa095167501a128703a008446dd099d0c",
       "installedAt": "2026-08-19T18:40:44.743Z",
-      "updatedAt": "2026-10-12T12:22:58.057Z"
+      "updatedAt": "2026-11-19T18:06:46.259Z",
+      "commit": "e58dd043600587dbaf58ba315e7f2b38373eeb43"
     },
     "blast-radius": {
       "source": "cursor/plugins",
       "sourceType": "github",
       "sourceUrl": "https://github.com/cursor/plugins.git",
       "skillPath": "pstack/skills/blast-radius/SKILL.md",
-      "skillFolderHash": "9437b18aef01b61d24b57d0fd3de24386398b643",
+      "skillFolderHash": "88d9b57545971959dd93878d6c6ac7f3a84737b8",
       "installedAt": "2026-08-19T19:00:23.895Z",
-      "updatedAt": "2026-10-06T14:52:47.608Z"
+      "updatedAt": "2026-11-19T18:06:46.294Z",
+      "commit": "e58dd043600587dbaf58ba315e7f2b38373eeb43"
     },
     "archify": {
       "source": "tt-a1i/archify",
@@ -305,9 +307,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "cde001a0341ed67e818207c4e3f06d4727a42cde",
+      "skillFolderHash": "ed58ce288b23b5fc2f26b57e91c794088cc557bd",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-11-14T13:17:03.981Z"
+      "updatedAt": "2026-11-19T18:06:47.148Z",
+      "commit": "d74d8c2d0c78a9e1efd43137f6a9a51182a8b5f0"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
@@ -503,10 +506,11 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/blader/humanizer.git",
       "skillPath": "SKILL.md",
-      "skillFolderHash": "b48c832f0f809c1b5658edbb838c2521b72f2413",
+      "skillFolderHash": "a48c60c2a3f7a0f6ecc8f9b8d2b1ef71c7927155",
       "pluginName": "humanizer",
       "installedAt": "2026-09-13T20:47:15.586Z",
-      "updatedAt": "2026-11-10T22:09:12.941Z"
+      "updatedAt": "2026-11-19T18:06:47.209Z",
+      "commit": "a48c60c2a3f7a0f6ecc8f9b8d2b1ef71c7927155"
     },
     "retro": {
       "source": "mattpocock/skills",
@@ -541,9 +545,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
       "skillPath": "skills/ci-cd-and-automation/SKILL.md",
-      "skillFolderHash": "7da17da7c380f6890d4fb495cd9adcf57d6d812a",
+      "skillFolderHash": "3478f4b2f32cb5899b1a036b14f167bb86c79456",
       "installedAt": "2026-10-31T20:25:55.371Z",
-      "updatedAt": "2026-10-31T20:25:55.371Z"
+      "updatedAt": "2026-11-19T18:06:47.225Z",
+      "commit": "8c99fa36d90068c82d547f7c12a9d67a3e95f4ee"
     },
     "debugging-and-error-recovery": {
       "source": "addyosmani/agent-skills",
@@ -613,9 +618,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
       "skillPath": "skills/using-agent-skills/SKILL.md",
-      "skillFolderHash": "81e8196f4dd4bf9fc5f0a1b827f4148af52a4391",
+      "skillFolderHash": "4f15d40043a102dace616408938c772483cd2902",
       "installedAt": "2026-10-31T20:25:55.375Z",
-      "updatedAt": "2026-10-31T20:25:55.375Z"
+      "updatedAt": "2026-11-19T18:06:47.237Z",
+      "commit": "8c99fa36d90068c82d547f7c12a9d67a3e95f4ee"
     },
     "idea-refine": {
       "source": "addyosmani/agent-skills",
@@ -649,9 +655,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
       "skillPath": "skills/code-review-and-quality/SKILL.md",
-      "skillFolderHash": "d887913952a310aa1c34e1ea7490b29b8ad41a4a",
+      "skillFolderHash": "d1a6c836ddbbb63565dc3aa799e72a41e6d7642c",
       "installedAt": "2026-10-31T20:25:55.376Z",
-      "updatedAt": "2026-11-14T13:17:04.081Z"
+      "updatedAt": "2026-11-19T18:06:47.251Z",
+      "commit": "8c99fa36d90068c82d547f7c12a9d67a3e95f4ee"
     },
     "egm-bootstrap": {
       "source": "/home/cri/.agents/elephant-goldfish-model",
