@@ -660,62 +660,6 @@
       "updatedAt": "2026-11-19T18:06:47.251Z",
       "commit": "8c99fa36d90068c82d547f7c12a9d67a3e95f4ee"
     },
-    "egm-bootstrap": {
-      "source": "/home/cri/.agents/elephant-goldfish-model",
-      "sourceType": "local",
-      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
-      "skillFolderHash": "d32f760e2fc4c82607e76d2edf8b626a4a5b280e9a3640a9544f3c2ce6f1c8c3",
-      "installedAt": "2026-11-01T13:08:03.721Z",
-      "updatedAt": "2026-11-01T13:10:07.262Z"
-    },
-    "egm-brainstorm": {
-      "source": "/home/cri/.agents/elephant-goldfish-model",
-      "sourceType": "local",
-      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
-      "skillFolderHash": "56db1ec73b04de3825d1e075262138f0d66763e7ab82f9f67cda2c4ed9b0cf4b",
-      "installedAt": "2026-11-01T13:08:03.722Z",
-      "updatedAt": "2026-11-01T13:10:07.263Z"
-    },
-    "egm-draft": {
-      "source": "/home/cri/.agents/elephant-goldfish-model",
-      "sourceType": "local",
-      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
-      "skillFolderHash": "c719c13448fa72609b2a87585a1d2cbdf52027d9d944e4f3ea2009fff5cd18ff",
-      "installedAt": "2026-11-01T13:08:03.723Z",
-      "updatedAt": "2026-11-01T13:10:07.263Z"
-    },
-    "egm-drift-report": {
-      "source": "/home/cri/.agents/elephant-goldfish-model",
-      "sourceType": "local",
-      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
-      "skillFolderHash": "60acfd354ef952f4ccc2dc3d93ef01514b083802dc5dcf809fe405faa045569e",
-      "installedAt": "2026-11-01T13:08:03.724Z",
-      "updatedAt": "2026-11-01T13:10:07.264Z"
-    },
-    "egm-resolve": {
-      "source": "/home/cri/.agents/elephant-goldfish-model",
-      "sourceType": "local",
-      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
-      "skillFolderHash": "c3459efc56ae95cf814fd5dcb3c1b4c0ccd91b465614ff39249f4047a6029833",
-      "installedAt": "2026-11-01T13:08:03.724Z",
-      "updatedAt": "2026-11-01T13:10:07.264Z"
-    },
-    "egm-review": {
-      "source": "/home/cri/.agents/elephant-goldfish-model",
-      "sourceType": "local",
-      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
-      "skillFolderHash": "7527be03913be9c168826243982a1aa55a6952cb5ff2a5a3e2b841facfb5c6f2",
-      "installedAt": "2026-11-01T13:08:03.725Z",
-      "updatedAt": "2026-11-01T13:10:07.264Z"
-    },
-    "egm-review-loop": {
-      "source": "/home/cri/.agents/elephant-goldfish-model",
-      "sourceType": "local",
-      "sourceUrl": "/home/cri/.agents/elephant-goldfish-model",
-      "skillFolderHash": "2053d524df95424436389ba5b7a9485b08f49027ad03d9e2bd5400208845b450",
-      "installedAt": "2026-11-01T13:08:03.725Z",
-      "updatedAt": "2026-11-01T13:10:07.265Z"
-    },
     "stageshow": {
       "source": "benjitaylor/skills",
       "sourceType": "github",
@@ -752,6 +696,16 @@
       "skillFolderHash": "c4298d9d001a41c9c2a3797fddee509bc4dd7ba0",
       "installedAt": "2026-11-19T18:09:49.299Z",
       "updatedAt": "2026-11-19T18:09:49.299Z"
+    },
+    "open-code-review-delegate": {
+      "source": "alibaba/open-code-review",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/alibaba/open-code-review.git",
+      "commit": "5a6f77ccd1540ed4e80c06490a696543e507d3e4",
+      "skillPath": "skills/open-code-review-delegate/SKILL.md",
+      "skillFolderHash": "9511b6fca78fb1e983cd849f6da6ff55caf670d7",
+      "installedAt": "2026-11-20T23:11:10.484Z",
+      "updatedAt": "2026-11-20T23:11:10.484Z"
     }
   },
   "dismissed": {
