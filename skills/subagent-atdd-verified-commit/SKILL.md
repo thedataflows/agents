@@ -1,6 +1,6 @@
 ---
 name: subagent-atdd-verified-commit
-description: "Trigger when user asks to implement, change, fix, or refactor code in repository. Use ATDD/TDD workflow, inspect code with approved tools, verify and review changes, then commit."
+description: 'Trigger when user asks to implement, change, fix, or refactor code in repository. Use ATDD/TDD workflow, inspect code with approved tools, verify and review changes, then commit.'
 ---
 
 ## Sub-Agents
@@ -13,6 +13,7 @@ description: "Trigger when user asks to implement, change, fix, or refactor code
 
 ## Rules
 
+- If the repo is golang, also load skills: `go-software-designer`, `go-tdd-patterns`
 - ALWAYS obey and check the governing specs and rules. DO NOT go into any edge case that was not designed or asked of you. DO NOT let your sub-agents to it as well.
 - ALWAYS Use graft tools and `ast-grep`/`ast-grep-outline` tools and skills to read/grep existing code. Resolve code callers with local AST and available language server (gopls, etc) or use ast-grep embedded language servers. DO NOT use grep/rg/sed or `read` file tools unless there is nothing else or not code.
 - ALWAYS use first /atdd-ai-programming and TDD practices
