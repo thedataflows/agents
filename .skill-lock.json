@@ -87,9 +87,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/engineering/domain-modeling/SKILL.md",
-      "skillFolderHash": "ea30ee454ba264543dbe40737973b1a5afb9f0e6",
+      "skillFolderHash": "db8ef024fb9a7b2022d57289359ae96cff0d8483",
       "installedAt": "2026-08-06T23:31:03.980Z",
-      "updatedAt": "2026-10-05T15:07:37.843Z"
+      "updatedAt": "2026-11-25T13:05:25.569Z",
+      "commit": "6f7f7831a625f040a8e06a0e7954826b87ce775a"
     },
     "grill-me": {
       "source": "mattpocock/skills",
@@ -308,10 +309,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "c3459c1167a9e09c5e983d255d5a28928b4983d0",
+      "skillFolderHash": "912c4832afaf65c33969cf025c0a30c05e4f9cdf",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-11-24T15:15:14.126Z",
-      "commit": "0eeda75a708f419560d5e032693618bb9954f17b"
+      "updatedAt": "2026-11-25T13:05:26.341Z",
+      "commit": "b228c5d77794a84150fca41b22940bb316b1398d"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
@@ -697,11 +698,11 @@
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "https://github.com/pbakaus/impeccable.git",
-      "commit": "b49177d32788f2dc585c42831d845dacf1ebed2c",
+      "commit": "9e460a87ef338ee9d12c7beed8fedc597a5af5f7",
       "skillPath": ".agents/skills/impeccable/SKILL.md",
-      "skillFolderHash": "c4298d9d001a41c9c2a3797fddee509bc4dd7ba0",
+      "skillFolderHash": "4f98d7e1f73dfd7a84ce64d41146c1689614e982",
       "installedAt": "2026-11-19T18:09:49.299Z",
-      "updatedAt": "2026-11-19T18:09:49.299Z"
+      "updatedAt": "2026-11-25T13:05:26.584Z"
     },
     "open-code-review-delegate": {
       "source": "alibaba/open-code-review",
