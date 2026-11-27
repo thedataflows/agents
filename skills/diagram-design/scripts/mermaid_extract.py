@@ -452,6 +452,14 @@ def _prepared_lines(block: SourceBlock) -> tuple[list[tuple[int, str]], int]:
     return prepared, config_directives
 
 
+FLOWCHART_HEADER = re.compile(
+    r"^\s*(flowchart-elk|flowchart|graph)"
+    r"(?:[ \t]+(TD|TB|LR|RL|BT)\b|[ \t]+([<>^v])(?![\w-])|$)",
+    re.I,
+)
+ARROW_DIRECTIONS = {"<": "RL", ">": "LR", "^": "BT", "v": "TB"}
+
+
 def _kind_and_direction(
     lines: list[tuple[int, str]],
 ) -> tuple[str, str, int]:
@@ -459,9 +467,11 @@ def _kind_and_direction(
         text = raw.strip()
         if not text:
             continue
-        match = re.match(r"^(flowchart|graph)\s+(TD|TB|LR|RL|BT)\b", text, re.I)
+        match = FLOWCHART_HEADER.match(text)
         if match:
-            return "flowchart", match.group(2).upper(), position
+            word, arrow = match.group(2), match.group(3)
+            direction = word.upper() if word else ARROW_DIRECTIONS[arrow.lower()] if arrow else "TB"
+            return "flowchart", direction, position
         if re.match(r"^sequenceDiagram\b", text, re.I):
             return "sequenceDiagram", "LR", position
         if re.match(r"^stateDiagram(?:-v2)?(?![\w-])", text, re.I):
@@ -1585,7 +1595,7 @@ def parse_block(block: SourceBlock) -> Diagram:
         # `graph TD; A-->B;` is valid: statements may follow the header's
         # semicolon on the same line, so keep them as the first statement.
         line_number, header = lines[header_position]
-        rest = re.match(r"^\s*(?:flowchart|graph)\s+(?:TD|TB|LR|RL|BT)\b", header, re.I)
+        rest = FLOWCHART_HEADER.match(header)
         tail = header[rest.end() :].lstrip() if rest else ""
         if tail.startswith(";"):
             lines[header_position] = (line_number, header[: rest.end()])
@@ -1762,15 +1772,17 @@ def _escape_table(text: str) -> str:
     return _escape_markdown(text.replace("\n", " ⏎ "))
 
 
-def _block_summary(block: SourceBlock, selected: list[Diagram]) -> str:
-    """One header entry. A block that was not selected is parsed only to
-    describe it, so a failure there is listed instead of ending the run."""
-    diagram = next((item for item in selected if item.index == block.index), None)
+def _block_summary(
+    block: SourceBlock, selected_by_index: dict[int, Diagram]
+) -> str:
+    """Describe selected blocks without parsing unselected source."""
+    diagram = selected_by_index.get(block.index)
     if diagram is None:
-        try:
-            diagram = parse_block(block)
-        except ExtractError as error:
-            return f"[{block.index}] unparsed: {_escape_markdown(str(error))}"
+        return f"[{block.index}] not selected"
+    try:
+        diagram = parse_block(block)
+    except ExtractError as error:
+        return f"[{block.index}] unparsed: {_escape_markdown(str(error))}"
     if diagram.kind == "quadrant":
         return f"[{diagram.index}] {diagram.kind} ({len(diagram.points)}p)"
     return f"[{diagram.index}] {diagram.kind} ({len(diagram.nodes)}n/{len(diagram.edges)}e)"
@@ -1817,9 +1829,10 @@ def digest(
     max_rows: int,
 ) -> str:
     output = [f"# Mermaid IR — {path.name}", ""]
+    selected_by_index = {diagram.index: diagram for diagram in selected}
     output.append(
         f"{len(blocks)} diagram(s): "
-        + ", ".join(_block_summary(block, selected) for block in blocks)
+        + ", ".join(_block_summary(block, selected_by_index) for block in blocks)
     )
     for diagram in selected:
         info = analyze(diagram)

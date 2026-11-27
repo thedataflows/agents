@@ -196,9 +196,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/engineering/to-tickets/SKILL.md",
-      "skillFolderHash": "2dee20ad722a31c04ededf9f2d83842473573045",
+      "skillFolderHash": "f0d279fd436cfd2630f2b612cbb3068f3a745e20",
       "installedAt": "2026-08-06T23:31:03.982Z",
-      "updatedAt": "2026-10-06T14:52:44.466Z"
+      "updatedAt": "2026-11-27T22:29:28.097Z",
+      "commit": "bbadaa631c37af594e5a05c9cefacd9956136b18"
     },
     "triage": {
       "source": "mattpocock/skills",
@@ -309,10 +310,10 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design.git",
       "skillPath": "skills/diagram-design/SKILL.md",
-      "skillFolderHash": "912c4832afaf65c33969cf025c0a30c05e4f9cdf",
+      "skillFolderHash": "f337988b404562c52254397c65dd49455c1398fb",
       "installedAt": "2026-09-02T21:05:52.011Z",
-      "updatedAt": "2026-11-25T13:05:26.341Z",
-      "commit": "b228c5d77794a84150fca41b22940bb316b1398d"
+      "updatedAt": "2026-11-27T22:29:28.919Z",
+      "commit": "795eec47fd376e5dda0b9e056a49520060cd2f13"
     },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
